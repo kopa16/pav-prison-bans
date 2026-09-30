@@ -2,9 +2,5 @@
     "sebb_a": {
         "banneduntil": "2026/12/10",
         "BanReason": "test"
-    },
-    "Guadalupe Senior": {
-        "banneduntil": "2026/1/1",
-        "BanReason": "brown"
     }
 }
